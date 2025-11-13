@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Paul</h1>
+<h1 align="center">Hi There👋, I'm Arnab Paul</h1>
 <h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
 
 
