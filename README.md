@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Paul</h1>
-<h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. Currently immersing myself in the world of Artificial Intelligence—especially Agentic AI and Generative AI—I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
+<h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
 
 I have a solid foundation in the MERN stack, along with programming experience in Python, Java, C/C++. Combined with modern tools like React.js, Redux Toolkit, and Node.js, I enjoy developing robust full-stack applications with scalable backends and intuitive, responsive frontends.
 
