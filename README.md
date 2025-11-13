@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnab Paul</h1>
 <h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. Currently immersing myself in the world of Artificial Intelligence—especially Agentic AI and Generative AI—I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
 
-I have a solid foundation in the MERN stack, along with programming experience in Python, Java, C/C++, and FastAPI. Combined with modern tools like React.js, Redux Toolkit, and Node.js, I enjoy developing robust full-stack applications with scalable backends and intuitive, responsive frontends.
+I have a solid foundation in the MERN stack, along with programming experience in Python, Java, C/C++. Combined with modern tools like React.js, Redux Toolkit, and Node.js, I enjoy developing robust full-stack applications with scalable backends and intuitive, responsive frontends.
 
-To stay sharp, I regularly challenge myself with algorithmic problems on LeetCode, continually strengthening my problem-solving skills and technical mindset.</h3>
+To stay sharp, I regularly challenge myself with algorithmic problems on LeetCode, continually strengthening my problem-solving skills.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials :</h3>
 <p align="left">
 <a href="https://twitter.com/arnabpaul868427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabpaul868427" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnab-paul-76b306248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-paul-76b306248" height="30" width="40" /></a>
