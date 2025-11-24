@@ -10,7 +10,7 @@ To stay sharp, I regularly challenge myself with algorithmic problems on LeetCod
 <p align="left">
 <a href="https://twitter.com/arnabpaul868427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabpaul868427" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnab-paul-76b306248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-paul-76b306248" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paul_arnab_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paul_arnab_101" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
