@@ -1,10 +1,7 @@
 <h1 align="center">Hi There👋, I'm Arnab Paul</h1>
 <h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
 
-
 I have a solid foundation in the MERN stack, along with programming experience in Python, Java, C/C++. Combined with modern tools like React.js, Redux Toolkit, and Node.js, I enjoy developing robust full-stack applications with scalable backends and intuitive, responsive frontends.
-
-To stay sharp, I regularly challenge myself with algorithmic problems on LeetCode, continually strengthening my problem-solving skills.</h3>
 
 <h3 align="left">My Socials :</h3>
 <p align="left">
