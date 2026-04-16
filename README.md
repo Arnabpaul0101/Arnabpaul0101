@@ -1,11 +1,9 @@
 <h1 align="center">Hi There👋, I'm Arnab Paul</h1>
-<h3 align="center">I’m a passionate Software Developer driven by the goal of building intelligent systems that solve real-world problems. I’m always exploring ways to apply new knowledge through hands-on projects and experimentation.
+<h3 align="center">I'm passionate about building intelligent systems that solve real-world problems. Currently diving deep into Agentic AI and Generative AI. I constantly seek opportunities to apply what I learn through hands-on projects and experimentation.
 
-I have a solid foundation in the MERN stack, along with programming experience in Python, Java, C/C++. Combined with modern tools like React.js, Redux Toolkit, and Node.js, I enjoy developing robust full-stack applications with scalable backends and intuitive, responsive frontends.
-
+With a strong foundation in the MERN stack, and programming experience in Python, Java, C/C++, FastAPI, and modern tools like React.js, Redux Toolkit, and Node.js, I enjoy building robust full-stack applications with scalable backends and seamless, responsive frontends.
 <h3 align="left">My Socials :</h3>
 <p align="left">
-<a href="https://twitter.com/arnabpaul868427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabpaul868427" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnab-paul-76b306248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-paul-76b306248" height="30" width="40" /></a>
 
 </p>
